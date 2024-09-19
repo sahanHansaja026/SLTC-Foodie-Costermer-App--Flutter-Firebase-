@@ -91,23 +91,27 @@ dependencies:
 
 ### Login Page
 
-![login Page](<link-to-home-page-screenshot>)
+<img src="https://github.com/sahan026/images/blob/main/SLTC_login_page.jpg" alt="Login Page" width="250" height="500">
 
 ### Home Page
 
-![Home Page](<link-to-home-page-screenshot>)
+<img src="https://github.com/sahan026/images/blob/main/homepage.jpg" alt="Login Page" width="250" height="500">
 
 ### Food Details Page
 
-![Food Details Page](<link-to-food-details-page-screenshot>)
+<img src="https://github.com/sahan026/images/blob/main/SLTC_login_page.jpg" alt="Login Page" width="250" height="500">
 
 ### Payment Page
 
-![Payment Page](<link-to-payment-page-screenshot>)
+<img src="https://github.com/sahan026/images/blob/main/paymentpage.jpg" alt="Login Page" width="250" height="500">
 
 ### My order Page
 
-![order Page](<link-to-payment-page-screenshot>)
+<img src="https://github.com/sahan026/images/blob/main/myoderpage.jpg" alt="Login Page" width="250" height="500">
+
+### Setting Page
+
+<img src="https://github.com/sahan026/images/blob/main/SLTC_setting_page.jpg" alt="Login Page" width="250" height="500">
 
 
 
