@@ -118,6 +118,5 @@ dependencies:
 ## Contact
 
 For any inquiries, please reach out via email at: <sahanhansaja026@gmail.com>
-```
 
-This `README.md` file provides a clear breakdown of your project’s folder structure, including the locations of important files and components. Replace the placeholder links with actual image URLs and provide your GitHub repository and contact details.
+
